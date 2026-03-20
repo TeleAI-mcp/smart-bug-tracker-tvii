@@ -1,2 +1,3 @@
-# smart-bug-tracker-tvii
-Automated issue comment bot repository
+# Smart Bug Tracker Tvii
+
+Automated issue comment bot repository.
